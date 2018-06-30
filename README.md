@@ -1,6 +1,3 @@
 # ReviewTracker
 
-Project team order of leadership:  
-1.Christian Hallgrimson  
-17.The rest  
-
+An application which tracks an Amazon product's ratings over time to make the user aware of the product's current quality.
